@@ -12,7 +12,8 @@
     🔭 Actualmente estoy trabajando en una aplicación de chat <br>
     🌱 Actualmente estoy aprendiendo Angular, Tailwind, React ,Laravel<br>
     💬 Pregúntame sobre cualquier cosa [here](https://github.com/Irandeaguas/irandeaguas.io/issues)<br>
-    ⚡ Dato curioso Las capas de la Guardia de la Noche de Juego de Tronos están hechas de alfombras de Ikea<br>
+      ⚡️“Cada línea de código es un paso hacia el futuro. ¡Eres el creador de la innovación en el mundo del desarrollo de software!”
+<br>
  
  </div>
  

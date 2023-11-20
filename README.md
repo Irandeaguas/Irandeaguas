@@ -11,7 +11,6 @@
 <div align="center">
     🔭 Actualmente estoy trabajando en una aplicación de chat <br>
     🌱 Actualmente estoy aprendiendo Angular, Tailwind, React ,Laravel<br>
-    💬 Pregúntame sobre cualquier cosa [here](https://github.com/Irandeaguas/irandeaguas.io/issues)<br>
       ⚡️“Cada línea de código es un paso hacia el futuro. ¡Eres el creador de la innovación en el mundo del desarrollo de software!”
 <br>
  

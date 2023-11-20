@@ -79,13 +79,8 @@
 
 
 
-<div align="center">
-  <img  src="https://github.com/irandeguas/irandeaguas/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irandeaguas" alt="irandeaguas" /></a> </p>
 

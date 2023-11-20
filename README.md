@@ -13,7 +13,7 @@
     🌱 Actualmente estoy aprendiendo Angular, Tailwind, React ,Laravel<br>
       ⚡️“Cada línea de código es un paso hacia el futuro. ¡Eres el creador de la innovación en el mundo del desarrollo de software!”
 <br>
- 
+ <br>
  </div>
  
 <div align="center"> 

@@ -49,9 +49,9 @@
 
 <div align="center">
   <h2>🐍 Mis contribuciones 🐍</h2>
-<!--   <br>
-  <img alt="snake eating my contributions" src="https://githubraw.com/irandeguas/irandeaguas.io/output/github-contribution-grid-snake.svg" /> -->
-  
+  <a href="https://github.com/Irandeaguas">
+  <img  src="https://github.com/Irandeaguas/Irandeaguas/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
   <br/><br/><br/>
 </div>
 

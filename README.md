@@ -11,7 +11,7 @@
 <div align="center">
     🔭 Actualmente estoy trabajando en una aplicación de chat <br>
     🌱 Actualmente estoy aprendiendo Angular, Tailwind, React ,Laravel<br>
-      ⚡️“Cada línea de código es un paso hacia el futuro. ¡Eres el creador de la innovación en el mundo del desarrollo de software!”
+      ⚡️“Cada línea de código es un paso hacia el futuro. <br> ¡Eres el creador de la innovación en el mundo del desarrollo de software!”
 <br>
  <br>
  </div>

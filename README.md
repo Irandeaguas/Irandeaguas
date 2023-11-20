@@ -54,9 +54,9 @@
 </div>
 
 
-<p align="center">
-###     ⚙️ &nbsp;GitHub Analytics
-</p>
+<h2 align="center">
+ ⚙️ &nbsp;GitHub Analytics
+</h2>
 
 <p align="center">
 
